@@ -1,0 +1,119 @@
+.noregistro{
+    background-color: #BC955C;
+    color: #fff;
+    padding-left: 80px;
+    padding-right: 80px;
+    padding-top: 15px;
+    text-align: justify;
+}
+.noregistro_{
+padding-top: 30px;
+padding-bottom: 30px;
+padding-left: 100px;
+padding-right: 100px;
+}
+.texsecundario{
+    color:#6F7271;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 45px;
+    margin-bottom: 40px;
+    font-size: 18px;
+}
+.opciones{
+    background-color: #235B4E;
+    border-radius: 10px 100px / 120px;
+    text-align: center;
+    font-size: 26px;
+    padding-top: 12px;
+    margin-top: 20px;
+    letter-spacing: 2px;
+}
+.imprime{
+    background-color: #9F2241;
+    border-radius: 12px;
+    margin-top: 60px;
+    margin-bottom: 45px;
+}
+.imprimecons{
+    padding-top: 8px;
+    color: #fff;
+    font-size: 15px;
+    font-weight: bold;
+    letter-spacing: 1;
+}
+.pago{
+    font-size: 10px;
+    color: #fff;
+    text-align: justify;
+    letter-spacing: 1px;
+    line-height: 1;
+    padding-bottom: 10px;
+    padding-left: 13px;
+}
+.preguntas{
+    background-color:  #dfdfdf;
+}
+.frecuentes{
+    font-size: 28px;
+    color: #235B4E;
+    font-weight:800;
+    padding-top: 22px;
+    padding-bottom: 0px;
+    letter-spacing: .5px;
+}
+.pregunta{
+    color: #235B4E;
+    font-weight: bold;
+    line-height: 1.5;
+}
+.respues{
+    color: #6F7271;
+    font-size: 12px;
+}
+
+.opciones_ {
+ font-size: 19px;
+ color: #fff;
+ padding-bottom: 0px!important;
+}
+.imgcons{
+    width: 15%;
+    height: 15%;
+}
+.imgcons_{
+    width: 12%;
+    height: 12%;
+}
+.imgimprimir{
+    width: 95%;
+    height: auto;
+    padding-top: 26px
+}
+.opc{
+    padding-top: 3px;
+    padding-left: 13px;
+}
+.obten{
+    padding-top: 20px;
+    padding-bottom: 28px;
+    margin-top: -1px;
+}
+@media (max-width: 767px){ 
+    .imgimprimir{
+        width: 16%;
+        height: auto;
+        padding-top: 3px;
+        padding-bottom: 8px;
+    }
+    .opciones_ {
+        padding-bottom: 14px!important;
+    }
+    .noregistro_ {
+        padding-top: 30px;
+        padding-bottom: 30px;
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+        
+}
